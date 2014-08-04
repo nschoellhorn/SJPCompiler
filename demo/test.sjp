@@ -1,0 +1,13 @@
+// Allocate my very own variables
+allocate int with name peter;
+allocate int with name swagger;
+
+// Assign some fancy values to the variables
+assign 42 to peter;
+assign 98 to swagger;
+assign 12 to peter;
+assign "Swaggy" to peter;
+
+// Output the addition of peter and swagger
+printline peter;
+printline "Hallo Welt";
